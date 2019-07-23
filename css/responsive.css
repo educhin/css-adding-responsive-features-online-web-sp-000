@@ -56,4 +56,9 @@
   }
 
   #details div { height: auto; }
+
+  .border-right {
+    border-right: 0px;
+  }
+
 }
